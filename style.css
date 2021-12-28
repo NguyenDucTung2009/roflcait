@@ -1,0 +1,40 @@
+table {
+  color:blue;
+  border-radius: 10px;
+  border: 2px solid red;
+}
+
+[href="#sus"] {
+  color:orange
+}
+
+[colspan="3"] {
+  color:red
+}
+
+#sus {
+  font-weight: bold;
+}
+
+.banana {
+  color:blue
+}
+.potato {
+  color: red
+}
+
+#chilipizdrik {
+  color:green;
+}
+
+#huge-text {
+  border: 4px dashed black;
+}
+
+#text-b-em {
+  color:purple;
+}
+
+a {
+  color:green;
+}
